@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "392415567727",
+    "firebase_url": "https://sundayservicev1.firebaseio.com",
+    "project_id": "sundayservicev1",
+    "storage_bucket": "sundayservicev1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392415567727:android:078e7013bb90a27ea0d29a",
+        "android_client_info": {
+          "package_name": "com.sundayservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392415567727-18sok97a88l1hd3ooomia45ac7sajvo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAugpAEwemf_Ru2jexU3igQ1oYIdNPXA0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392415567727-18sok97a88l1hd3ooomia45ac7sajvo8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392415567727-omfvsnnpa1bq9fke40ndpmbc6946qg0k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thecarterway.sundayservice-v1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
